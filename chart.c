@@ -1,6 +1,7 @@
 /*
 * CS50 / pset1 / chart.c
 * Alec Peden (alec.peden@gmail.com)
+* 2024
 */
 
 #include <stdio.h>
